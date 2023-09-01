@@ -18,4 +18,4 @@ There is [a specimen website](http://velvetyne.fr/pictoporn/) allowing to search
 
 ##This project involved :
 
-Julien Imbert, Martin Desinde, Raphaël Bastide, Jérémy Landes, Fatma Laadhari, Ludovic Laurent, Paul Couture, Georges Khayat, Louise Robert, Zoé Ballet, Jules Romier, Anaïs Djouad, Ariel MARTÍN PÉREZ, Auriana Beltrand, Jean-David Minseroux, Emmanuelle Lubaki, Timothée Chiron, Y-Lan Lucas, Thibault Proux, Zoé Tullen, Gabrielle Meistretty, Alizée Depin, Alice Martins, Cannizzo Margot, Timothée Goguely, Stéphanie Lebon, Bilal Kilani, Thibéry Maillard, Marie Diologent, Noémie Vasak.
+Julien Imbert, Martin Desinde, Raphaël Bastide, Jérémy Landes, Fatma Laadhari, Ludovic Laurent, Paul Couture, Georges Khayat, Louise Robert, Zoé Ballet, Jules Romier, Anaïs Djouad, Ariel MARTÍN PÉREZ, Jean-David Minseroux, Emmanuelle Lubaki, Timothée Chiron, Y-Lan Lucas, Thibault Proux, Zoé Tullen, Gabrielle Meistretty, Alizée Depin, Alice Martins, Cannizzo Margot, Timothée Goguely, Stéphanie Lebon, Bilal Kilani, Thibéry Maillard, Marie Diologent, Noémie Vasak.
